@@ -1,3 +1,4 @@
 # API-E-Commerce
 Fetch api in Javascript implementing in shoping website 
-![api](https://github.com/Anand3125/API-E-Commerce/assets/124582976/82890134-6c06-472d-bfc5-674e81c61eb7)
+
+![Screenshot_20-6-2024_18738_anand3125 github io](https://github.com/Anand3125/API-E-Commerce/assets/124582976/2c1c471f-abdf-42e0-8a94-17693a52882c)
